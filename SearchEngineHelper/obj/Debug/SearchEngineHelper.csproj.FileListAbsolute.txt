@@ -1,0 +1,12 @@
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\SearchEngineHelper.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\SearchEngineHelper.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\obj\Debug\SearchEngineHelper.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\obj\Debug\SearchEngineHelper.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\obj\Debug\SearchEngineHelper.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\SearchVolumMetricServices.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\SearchVolumMetricServices.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\APIS.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchEngineHelper\bin\Debug\Newtonsoft.Json.xml
