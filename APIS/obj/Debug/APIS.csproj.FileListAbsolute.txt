@@ -1,0 +1,8 @@
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Debug\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Debug\APIS.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\obj\Debug\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\obj\Debug\APIS.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\obj\Debug\APIS.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Debug\Newtonsoft.Json.xml

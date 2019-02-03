@@ -1,0 +1,15 @@
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Release\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Release\APIS.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Release\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Release\Newtonsoft.Json.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\bin\Release\Newtonsoft.Json.xml
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\obj\Release\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\APIS\obj\Release\APIS.pdb
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\bin\Release\APIS.dll
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\bin\Release\APIS.pdb
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\bin\Release\Newtonsoft.Json.dll
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\bin\Release\Newtonsoft.Json.pdb
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\bin\Release\Newtonsoft.Json.xml
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\obj\Release\APIS.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\obj\Release\APIS.dll
+C:\Users\cesar\Source\Repos\ProjectSearchfight2\APIS\obj\Release\APIS.pdb
