@@ -1,0 +1,10 @@
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\SearchVolumMetricServices.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\SearchVolumMetricServices.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\obj\Debug\SearchVolumMetricServices.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\obj\Debug\SearchVolumMetricServices.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\obj\Debug\SearchVolumMetricServices.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\APIS.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\APIS.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cesar\Documents\examen\ProjectSearchfight\SearchVolumMetricServices\bin\Debug\Newtonsoft.Json.xml
